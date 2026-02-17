@@ -1,16 +1,6 @@
 ﻿#EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="main-audio",NAME="Thai",LANGUAGE="th",DEFAULT=YES,AUTOSELECT=YES,URI="https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0217/11/1771296956320692.mp4/manifest.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="main-audio",NAME="Thai",LANGUAGE="th",DEFAULT=YES,AUTOSELECT=YES,URI="https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0217/11/1771296956320692.mp4/manifest.m3u8?rp=o00"
 
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=854x480,AUDIO="main-audio"
-https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0217/12/1771299445565700_audio_960x540_1000k.mp4/manifest.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=4000000,RESOLUTION=1280x720,AUDIO="main-audio"
-https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0217/12/1771299445565700_audio_1280x720_4000k.mp4/manifest.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=4002000,RESOLUTION=1920x1080,AUDIO="main-audio"
-https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0217/12/1771299445565700_audio.mp4/manifest.m3u8
-
-
-
-
-
-
+https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0217/12/1771299445565700_audio.mp4/manifest.m3u8?cv=v1&rp=o00
