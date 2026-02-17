@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="Thai",LANGUAGE="tha",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0217/11/1771296956320692.mp4/manifest.m3u8?rp=o00"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="Thai",LANGUAGE="tha",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://ok-nah.com/files/44e3aa03be6a966ec284a9989cb405f8/audio/audio_0"
 # EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="Chinese",LANGUAGE="chi",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="https://ok-nah.com/files/44e3aa03be6a966ec284a9989cb405f8/audio/audio_1"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,RESOLUTION=1920x1080,CODECS="avc1.64001e,mp4a.40.2",AUDIO="audio0"
 https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0217/12/1771299445565700_audio_1280x720_4000k.mp4/manifest.m3u8
