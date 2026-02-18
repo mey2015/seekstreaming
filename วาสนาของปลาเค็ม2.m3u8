@@ -3,5 +3,6 @@
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="main-audio",NAME="Thai",LANGUAGE="th",DEFAULT=YES,AUTOSELECT=YES,URI="https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0218/17/1771402894519314.mp4/audio.m3u8?rp=o00"
 # EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="main-audio",NAME="Chinese",LANGUAGE="zh",DEFAULT=NO,AUTOSELECT=YES,URI="000000000000000000000000"
 
-#EXT-X-STREAM-INF:NAME="original",BANDWIDTH=4002000,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2",AUDIO="main-audio"
+#EXT-X-STREAM-INF:BANDWIDTH=4002000,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2",AUDIO="main-audio"
 https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0218/13/1771388447825706.mp4/video.m3u8?rp=o00
+
