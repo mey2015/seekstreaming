@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="main-audio",NAME="Thai",LANGUAGE="th",DEFAULT=YES,AUTOSELECT=YES,URI="https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0219/18/1771491790555424.mp4/audio.m3u8?rp=o00"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="main-audio",NAME="Chinese",LANGUAGE="zh",DEFAULT=NO,AUTOSELECT=YES,URI="https://1a-1791.com/video/fww1/f0/s8/2/g/d/5/Z/gd5Zz.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=219614720-219640584"
+
+#EXT-X-STREAM-INF:BANDWIDTH=4097000,RESOLUTION=1920x804,AUDIO="main-audio"
+https://1a-1791.com/video/fww1/f0/s8/2/g/d/5/Z/gd5Zz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1332081664-1332107873
+#EXT-X-STREAM-INF:BANDWIDTH=2137000,RESOLUTION=1280x536,AUDIO="main-audio"
+https://1a-1791.com/video/fww1/f0/s8/2/g/d/5/Z/gd5Zz.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=694871552-694897589
+#EXT-X-STREAM-INF:BANDWIDTH=1053000,RESOLUTION=854x358,AUDIO="main-audio"
+https://1a-1791.com/video/fww1/f0/s8/2/g/d/5/Z/gd5Zz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=342501376-342527320
+#EXT-X-STREAM-INF:BANDWIDTH=675000,RESOLUTION=640x268,AUDIO="main-audio"
+https://1a-1791.com/video/fww1/f0/s8/2/g/d/5/Z/gd5Zz.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=219614720-219640584
+#EXT-X-STREAM-INF:BANDWIDTH=222000,RESOLUTION=640x268,AUDIO="main-audio"
+https://1a-1791.com/video/fww1/f0/s8/2/g/d/5/Z/gd5Zz.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=72273920-72299461
