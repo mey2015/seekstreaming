@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+# --- 1. กำหนดกลุ่มเสียง (Audio Tracks) ---
+# เสียงไทย (ดึงจากไฟล์ MP4 หลัก)
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-group",NAME="Thai",LANGUAGE="th",DEFAULT=YES,AUTOSELECT=YES,URI="https://1a-1791.com/video/fwe2/68/s8/2/q/s/l/7/qsl7z.aaa.mp4"
+
+# เสียงจีน (ดึงจากไฟล์ AAC แยก)
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-group",NAME="Chinese",LANGUAGE="zh",DEFAULT=NO,AUTOSELECT=YES,URI="https://1a-1791.com/video/fww1/2b/s8/2/y/2/j/7/y2j7z.Gaa.aac"
+
+# --- 2. ตัววิดีโอหลัก (Video Variant) ---
+# เชื่อมวิดีโอกับกลุ่มเสียง "audio-group"
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,AUDIO="audio-group"
+https://1a-1791.com/video/fwe2/68/s8/2/q/s/l/7/qsl7z.aaa.mp4
